@@ -2,10 +2,10 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center" class="d-flex justify-content-center bg-dark"style="text-align:center;">
-  <a href="https://www.linkedin.com/in/ayoub-ouni-8a785a239/">
+  <a href="https://www.linkedin.com/in/ayoub-ouni-8a785a239/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.facebook.com/20010610a">
+  <a href="https://www.facebook.com/20010610a" target="_blank">
     <img src="https://img.shields.io/badge/Facebbok-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
   
@@ -50,7 +50,7 @@
 </br>
 </br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyoubOuni&theme=great-gatsby&show_icons=true)</div>
+![Ayoub's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyoubOuni&theme=great-gatsby&show_icons=true)</div>
 </div>
 </div>
 <!--
