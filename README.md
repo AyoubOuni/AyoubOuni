@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img autoplay src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<div id="badges" align="center" class="d-flex justify-content-center bg-dark"style="text-align:center;">
+<div  align="center" >
   <a href="https://www.linkedin.com/in/ayoub-ouni-8a785a239/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -14,25 +14,22 @@
   <img  src="https://komarev.com/ghpvc/?username=AyoubOuni&style=flat-square&color=blue" alt=""/>
  <br/>
 
-  <h2 >
+  <h2>
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="23px"/>
   My name is Ayoub Ouni.
   I'm a Software Engineering Student .
   </br>
 
-<img src="https://www.countryflagicons.com/SHINY/48/TN.png" class='country' width='50' height='50' />
+<img src="https://www.countryflagicons.com/SHINY/48/TN.png" width='50' height='50' />
+</h3>
 
-
-</h2>
-</div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 <div>
- <br/>
 
-<br/>
+  <h2></h2>
 <h4> :hammer_and_wrench: Languages and Tools :</h4>
 <div>
 
