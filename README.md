@@ -22,14 +22,15 @@
   </br>
 
 <img src="https://www.countryflagicons.com/SHINY/48/TN.png" width='50' height='50' />
-</h3>
+</h2>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+<h2></h2>
 <div>
 
-  <h2></h2>
+  
 <h4> :hammer_and_wrench: Languages and Tools :</h4>
 <div>
 
