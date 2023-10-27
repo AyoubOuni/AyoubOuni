@@ -21,7 +21,6 @@
   I'm a Software Engineering Student .
   </br>
 
-<img src="https://www.countryflagicons.com/SHINY/48/TN.png" width='50' height='50' />
 </h2>
 
 <div align="center">
